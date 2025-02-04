@@ -1,1 +1,1 @@
-Beginner projects inPython.
+Beginner projects in Python.
